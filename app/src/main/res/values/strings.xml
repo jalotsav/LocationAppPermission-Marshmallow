@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppPermissionRuntime</string>
+    <string name="getlocation">Get Location</string>
+    <string name="googleplaysrvc_not_avlbl">Google Play Service Not available</string>
+    <string name="you_must_allow_permsn">You must have to allow permission</string>
+    <string name="permsn_denied">Permission Denied, You cannot access location data.</string>
+</resources>
